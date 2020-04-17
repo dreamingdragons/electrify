@@ -1,2 +1,4 @@
 User-agent: *
-Allow: /
+Allow: /index.html
+Allow: /projects.html
+Allow: /project_detail.html
